@@ -10,3 +10,8 @@ let student1 = {
 	homeAddress: homeAddress1
 };
 console.log(student1);
+console.log(student1.firstName);
+console.log(student1.lastName);
+console.log(student1.age);
+console.log(student1.hobbies);
+console.log(student1.homeAddress);
