@@ -6,7 +6,7 @@ let student1 = {
 	firstName: "Johann Michael",
 	lastName: "Caayao",
 	age: 20,
-	hobbies: ['Gaming', 'Bowling', 'Volleyball', 'Basketball', 'Card Collector'],
+	hobbies: ['Gaming', 'Bowling', 'Volleyball', 'Basketball', 'TCG Collector'],
 	homeAddress: homeAddress1
 };
 console.log(student1);
